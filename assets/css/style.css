@@ -217,6 +217,9 @@ body.nav-active { overflow: hidden; }
   line-height: var(--lineHeight-2);
 }
 
+.headline-2{
+  color: black;
+}
 .display-1 {
   font-size: var(--fontSize-display-1);
   line-height: var(--lineHeight-1);
